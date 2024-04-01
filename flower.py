@@ -1,4 +1,4 @@
-
+pip3 install -U scikit-learn scipy matplotlib
 #import KNeighborsClassifier
 from sklearn.neighbors import KNeighborsClassifier
 
